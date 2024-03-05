@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kirar</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/16f93ae6e1e6ec4e43289b79099f62e62361e750ad5d9754395bb8aa4b9081fc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhik199&label=Profile%20views&color=0e75b6&style=flat" alt="abhik199" /> </p>
 
