@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **abhishekkirar2004@gmail.com**
 
-- 📄My Resume [https://crimson-lory-68.tiiny.site/](https://crimson-lory-68.tiiny.site/)
-
 - ⚡ Fun fact **i am not funny**
 
 <h3 align="left">Connect with me:</h3>
